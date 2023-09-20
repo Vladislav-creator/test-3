@@ -114,7 +114,7 @@
   
   .gallery-item__img {
     display: block;
-    height: 50vh;
+    height: 45vh;
     object-fit: cover;  
   }
   
