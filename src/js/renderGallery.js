@@ -1,4 +1,5 @@
-import {gallery} from './script'
+// import {gallery} from './script'
+import {gallery} from './refs';
 function renderGallery(arr) {
   // Перевірка чи існує галерея перед вставкою даних
   if (!gallery) {
